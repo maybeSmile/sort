@@ -1,8 +1,8 @@
 <?php
+/**冒泡排序**/
 $arr = [6,5,7,8,3,1,2];
 
 function test($arr){
-    //测试每次排序逻辑
     echo implode(',',$arr)."\n";
 }
 
